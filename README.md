@@ -1,10 +1,10 @@
-#API Automation Testing with Postman & Newman
+##API Automation Testing with Postman & Newman
 Proyek automation testing untuk REST API menggunakan Postman Collection dan Newman CLI. Proyek ini mendemonstrasikan kemampuan testing API secara otomatis dengan berbagai skenario test case
 
-#📋 Deskripsi
+##📋 Deskripsi
 Repository ini berisi automation testing untuk API yang mencakup functional testing, integration testing, dan regression testing. Testing dilakukan menggunakan Postman untuk development dan Newman untuk continuous integration.
 
-#🚀 Fitur
+##🚀 Fitur
 ✅ Automated API testing dengan Postman Collection
 ✅ Test scripts untuk validasi response
 ✅ Environment variables untuk multiple environments
